@@ -1,0 +1,23 @@
+{
+  "name": "electronic-shop",
+  "version": "1.0.0",
+  "description": "A person wants to determine the most expensive computer keyboard and USB drive that can be purchased with a give budget. Given price lists for keyboards and USB drives and a budget, find the cost to buy them. If it is not possible to buy both items, return -1.",
+  "main": "electronic.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarikbouari/Electronic-Shop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tarikbouari/Electronic-Shop/issues"
+  },
+  "homepage": "https://github.com/tarikbouari/Electronic-Shop#readme",
+  "dependencies": {
+    "jest": "^29.1.2"
+  }
+}
